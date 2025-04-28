@@ -26,7 +26,7 @@ O projeto foi desenvolvido com foco em boas práticas, organização de código,
 
 ### Clonando o projeto (fork realizado conforme instruções da vaga)
 ```bash
-git clone https://github.com/seu-usuario/Teste-Dev-php.git
+git clone https://github.com/bernardev/Teste-Dev-php.git
 cd Teste-Dev-php
 ```
 
